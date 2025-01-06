@@ -13,7 +13,6 @@
     * [Home page](#Home-page)
     * [add your pages](#)
     * [CRUD](#CRUD)
-    * [Login page](#Profile-page)
     * [Authentication & Authorisation](#Authentication-Authorisation )
 
 3. [Technologies Used](#technologies-used)
@@ -44,7 +43,6 @@ Explain your features on the website,(navigation, pages, links, forms, input fie
 ### Footer
 ### Home-page
 ### CRUD
-### Profile-page
 ### Authentication-Authorisation 
 ## Technologies Used
 List of technologies used for your project
