@@ -20,7 +20,8 @@
 5. [Testing](#testing)
 6. [Bugs](#bugs)
 7. [Deployment](#deployment)
-8. [Credits](#credits)
+8. [AI](#AI)
+9. [Credits](#credits)
 
 ## Design & Planning:
 
@@ -99,5 +100,9 @@ This website is deployed to Heroku from a GitHub repository, the following steps
 - Below that in the **search for a repository to connect to** search box enter the name of your repository that you created on **GitHub** and click **connect**
 - Once it has been connected scroll down to the **Manual Deploy** and click **Deploy branch** when it has deployed you will see a **view app** button below and this will bring you to your newly deployed app.
 - Please note that when deploying manually you will have to deploy after each change you make to your repository.
+
+## AI
+- Explain the usage of AI in your project (features, bugs etc..)
+  
 ## Credits
 List of used resources for your website (text, images, snippets of code, projects....)
